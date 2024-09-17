@@ -1,5 +1,7 @@
 body {
     background-color: blue;
     border: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
 }
 
